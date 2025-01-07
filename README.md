@@ -7,7 +7,7 @@ Objectives
 - Portfolio Building: Accumulate a variety of projects to showcase creativity and technical expertise.
  
 # 2.UConverter
-# Feaures
+# Features
 - Convert between Fahrenheit and Celsius seamlessly.
 - Real-time updates as users input values.
 - Reset values to default with a single tap.
